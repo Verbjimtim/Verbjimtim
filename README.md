@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verbjimtim aka Jamie K
 - Gander Oceanic Ops director (ZQO2) - [Gander OCA](https://ganderoceanic.ca) 
-- VATPAC, YMMM FIR Co-ordinator - [VATPAC](https://vatpac.org): [jamie.k@vatpac.org](mailto:jamie.k@vatpac.org)
+- VATPAC, Scenior FIR Co-ordinator - [VATPAC](https://vatpac.org): [jamie.k@vatpac.org](mailto:jamie.k@vatpac.org)
 - 📫 prefered contact: [Discord](https://discordapp.com/users/279883328021200897)
 
 <!---
