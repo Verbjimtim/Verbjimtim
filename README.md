@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verbjimtim aka Jamie K
-- Gander Oceanic vatSys data set manager
-- VATPAC, Scenior FIR Co-ordinator - [VATPAC](https://vatpac.org): [jamie.k@vatpac.org](mailto:jamie.k@vatpac.org)
+- Gander Oceanic vatSys data set developer
+- VATPAC, Airspace Lead (YMMM FIR) - [VATPAC](https://vatpac.org): [jamie.k@vatpac.org](mailto:jamie.k@vatpac.org)
 - 📫 prefered contact: [Discord](https://discordapp.com/users/279883328021200897)
 
 [![Certified Thinker](https://meatproxy.me/badge/c/gzvz7.svg)](https://meatproxy.me/c/gzvz7)
